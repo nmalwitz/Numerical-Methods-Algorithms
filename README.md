@@ -1,1 +1,2 @@
 # Numerical-Methods-Algorithms
+#### Numerical methods is what is taught in CSU's Mech 105 engineering class. This class focuses on making estimations using classical numerical methods and helps students learn more about how computers make complex estimations. This repository includes the algorithms students needed to develop for this class. These algorithms include; Simpson's Method, False Position Method, and LU Factorization.
